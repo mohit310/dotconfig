@@ -1,0 +1,23 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HelloWorld – ~/IdeaProjects/HelloWorld/src/main/kotlin/Main.kt" projectWorkspaceId="2RSI9xmeicZcoGt9Qlmi33ux45e">
+              <option name="activationTimestamp" value="1687237225990" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-231.9011.34" />
+              <option name="buildTimestamp" value="1684213239546" />
+              <frame x="260" y="40" width="1390" height="970" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1687237184976" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/HelloWorld" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
