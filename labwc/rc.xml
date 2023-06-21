@@ -202,6 +202,7 @@
       <leftHanded>no</leftHanded>
       <accelProfile>adaptive</accelProfile>
       <tap>yes</tap>
+      <tapButtonMap>lrm</tapButtonMap>
       <middleEmulation>no</middleEmulation>
       <disableWhileTyping>yes</disableWhileTyping>
     </device>
