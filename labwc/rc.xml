@@ -197,7 +197,7 @@
     </context>
   </mouse>
   <libinput>
-    <device category="touch">
+    <device category="SynPS/2 Synaptics TouchPad">
       <naturalScroll>no</naturalScroll>
       <leftHanded>no</leftHanded>
       <accelProfile>adaptive</accelProfile>

@@ -1,8 +1,9 @@
 {
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
-    "modules-left": ["sway/workspaces", "sway/mode", "sway/scratchpad", "custom/media"],
-    "modules-right": ["idle_inhibitor", "pulseaudio", "network", "cpu", "memory", "backlight", "battery", "clock", "tray"],
+
+    "modules-center": ["clock"],
+    "modules-right":  ["idle_inhibitor", "pulseaudio", "network", "cpu", "memory", "backlight", "battery", "tray"],
     "sway/mode": {
         "format": "<span style=\"italic\">{}</span>"
     },
@@ -51,9 +52,9 @@
         "spacing": 10
     },
     "clock": {
-        // "timezone": "America/New_York",
+        "timezone": "America/New_York",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format-alt": "{:%Y-%m-%d}"
+        "on-click": "gnome-calendar"
     },
     "cpu": {
         "format": "{usage}% ",
