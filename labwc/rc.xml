@@ -35,8 +35,11 @@
     <keybind key="W-Return">
       <action name="Execute" command="alacritty"/>
     </keybind>
+    <keybind key="W-Space">
+      <action name="Execute" command="rofi -show run"/>
+    </keybind>
     <keybind key="A-F3">
-      <action name="Execute" command="bemenu-run"/>
+      <action name="Execute" command="bemenu"/>
     </keybind>
     <keybind key="XF86_AudioLowerVolume">
       <action name="Execute" command="amixer sset Master 5%-"/>
@@ -60,7 +63,7 @@
       <action name="None"/>
     </keybind>
     <keybind key="W-d">
-      <action name=""/>
+      <action name="Iconify"/>
     </keybind>
   </keyboard>
   <mouse>
@@ -180,19 +183,19 @@
     </context>
     <context name="Root">
       <mousebind button="Left" action="Press">
-        <action name="ShowMenu" menu="root-menu"/>
+        <action name="None"/>
       </mousebind>
       <mousebind button="Right" action="Press">
         <action name="ShowMenu" menu="root-menu"/>
       </mousebind>
       <mousebind button="Middle" action="Press">
-        <action name="ShowMenu" menu="root-menu"/>
+        <action name="None"/>
       </mousebind>
       <mousebind direction="Up" action="Scroll">
-        <action name="GoToDesktop" to="left" wrap="yes"/>
+        <action name="None"/>
       </mousebind>
       <mousebind direction="Down" action="Scroll">
-        <action name="GoToDesktop" to="right" wrap="yes"/>
+        <action name="None"/>
       </mousebind>
     </context>
   </mouse>
