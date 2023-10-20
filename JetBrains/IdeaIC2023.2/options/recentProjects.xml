@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/KotlinLearn">
+          <value>
+            <RecentProjectMetaInfo frameTitle="KotlinLearn – Main.kt [KotlinLearn.main]" opened="true" projectWorkspaceId="2X0m90cpctm0dSe6CLLjX6KaARw">
+              <option name="activationTimestamp" value="1697774683719" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10072.27" />
+              <option name="buildTimestamp" value="1697000639834" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="7" y="37" width="1906" height="1036" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1697774217437" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/KotlinLearn" />
+    <option name="lastProjectLocation" value="$USER_HOME$/projects" />
+  </component>
+</application>
