@@ -1,7 +1,0 @@
-DevKit
-com.android.tools.design
-com.intellij.uiDesigner
-com.jetbrains.codeWithMe
-com.jetbrains.space
-org.intellij.qodana
-org.jetbrains.android
