@@ -75,4 +75,5 @@ StaySynchronized=true
 
 [Refresh]
 Enabled=true
+EnabledOnMeteredNetwork=true
 IntervalMinutes=30

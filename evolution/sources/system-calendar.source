@@ -87,7 +87,6 @@ Parent=local-stub
 BackendName=local
 Color=#becedd
 Selected=true
-
 Order=0
 
 [Offline]
@@ -95,4 +94,5 @@ StaySynchronized=true
 
 [Refresh]
 Enabled=true
+EnabledOnMeteredNetwork=true
 IntervalMinutes=30
